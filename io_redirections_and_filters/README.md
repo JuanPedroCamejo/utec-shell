@@ -12,3 +12,6 @@ Muestra "Hello, World" en la terminal.
 
 Muestra el emoticono confundido `"(Ôo)'` en la terminal.
 
+### 2-hellofile
+
+Muestra el contenido del archivo "/etc/passwd".
