@@ -19,3 +19,7 @@ Muestra el contenido del archivo "/etc/passwd".
 ### ./3-twofiles
 
 Muestra primero el contenido de /etc/passwd y despu√©s el de /etc/hosts
+
+### ./4-lastlines
+
+Muestra las √ltimas 10 lineas de /etc/passwd
