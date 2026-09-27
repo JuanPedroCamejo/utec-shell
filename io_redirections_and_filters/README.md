@@ -27,3 +27,7 @@ Muestra las Ãltimas 10 lineas de /etc/passw
 ### ./5-firstlines
 
 Muetra las primeras 10 lineas de /etc/passwd
+
+### ./6-third_line
+
+Muestre la tercera lÃ­nea del archivo iacta
