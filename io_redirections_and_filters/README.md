@@ -22,4 +22,8 @@ Muestra primero el contenido de /etc/passwd y despuÃ©s el de /etc/hosts
 
 ### ./4-lastlines
 
-Muestra las Ãltimas 10 lineas de /etc/passwd
+Muestra las Ãltimas 10 lineas de /etc/passw
+
+### ./5-firstlines
+
+Muetra las primeras 10 lineas de /etc/passwd
